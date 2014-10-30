@@ -1,4 +1,4 @@
-turboforum
+TurboForum
 ==========
 
 TurboGears2 based forum
