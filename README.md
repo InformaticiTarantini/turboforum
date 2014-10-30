@@ -1,5 +1,7 @@
-This file is for you to describe the turboforum application. Typically
-you would include information such as the information below:
+turboforum
+==========
+
+TurboGears2 based forum
 
 Installation and Setup
 ======================
